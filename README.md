@@ -1,0 +1,4 @@
+cbitrand
+========
+
+Consume parts of the entropy bits at a time.
